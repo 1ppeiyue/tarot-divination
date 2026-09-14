@@ -1,0 +1,764 @@
+{
+  "major_arcana": [
+    {
+      "name": "The Fool",
+      "arcana": "Major",
+      "number": 0,
+      "keywords": {
+        "upright": ["新开始", "纯真", "自发", "自由灵魂"],
+        "reversed": ["鲁莽", "冲动", "冒险", "轻率"]
+      }
+    },
+    {
+      "name": "The Magician",
+      "arcana": "Major",
+      "number": 1,
+      "keywords": {
+        "upright": ["能力", "资源", "创造力", "行动力"],
+        "reversed": ["欺骗", "操控", "才能浪费", "缺乏规划"]
+      }
+    },
+    {
+      "name": "The High Priestess",
+      "arcana": "Major",
+      "number": 2,
+      "keywords": {
+        "upright": ["直觉", "潜意识", "神秘", "内在智慧"],
+        "reversed": ["隐瞒", "脱离现实", "忽略直觉"]
+      }
+    },
+    {
+      "name": "The Empress",
+      "arcana": "Major",
+      "number": 3,
+      "keywords": {
+        "upright": ["丰饶", "创造力", "滋养", "母性"],
+        "reversed": ["创意枯竭", "依赖", "过度保护"]
+      }
+    },
+    {
+      "name": "The Emperor",
+      "arcana": "Major",
+      "number": 4,
+      "keywords": {
+        "upright": ["权威", "结构", "领导力", "秩序"],
+        "reversed": ["专制", "僵化", "过度控制", "缺乏纪律"]
+      }
+    },
+    {
+      "name": "The Hierophant",
+      "arcana": "Major",
+      "number": 5,
+      "keywords": {
+        "upright": ["传统", "制度", "精神指引", "规范"],
+        "reversed": ["打破常规", "颠覆传统", "个人信念"]
+      }
+    },
+    {
+      "name": "The Lovers",
+      "arcana": "Major",
+      "number": 6,
+      "keywords": {
+        "upright": ["选择", "关系", "价值观", "和谐"],
+        "reversed": ["失衡", "价值冲突", "错误选择"]
+      }
+    },
+    {
+      "name": "The Chariot",
+      "arcana": "Major",
+      "number": 7,
+      "keywords": {
+        "upright": ["决心", "胜利", "意志力", "掌控"],
+        "reversed": ["失控", "缺乏方向", "挫败", "攻击性"]
+      }
+    },
+    {
+      "name": "Strength",
+      "arcana": "Major",
+      "number": 8,
+      "keywords": {
+        "upright": ["勇气", "耐心", "内在力量", "温和"],
+        "reversed": ["自我怀疑", "软弱", "缺乏自信"]
+      }
+    },
+    {
+      "name": "The Hermit",
+      "arcana": "Major",
+      "number": 9,
+      "keywords": {
+        "upright": ["内省", "独立思考", "智慧", "独处"],
+        "reversed": ["孤立", "孤独", "退缩", "拒绝帮助"]
+      }
+    },
+    {
+      "name": "Wheel of Fortune",
+      "arcana": "Major",
+      "number": 10,
+      "keywords": {
+        "upright": ["命运", "转折", "机遇", "循环"],
+        "reversed": ["厄运", "失控", "抵抗改变"]
+      }
+    },
+    {
+      "name": "Justice",
+      "arcana": "Major",
+      "number": 11,
+      "keywords": {
+        "upright": ["公正", "因果", "真相", "责任"],
+        "reversed": ["不公", "逃避责任", "欺骗"]
+      }
+    },
+    {
+      "name": "The Hanged Man",
+      "arcana": "Major",
+      "number": 12,
+      "keywords": {
+        "upright": ["牺牲", "等待", "新视角", "放手"],
+        "reversed": ["拖延", "抗拒", "停滞不前"]
+      }
+    },
+    {
+      "name": "Death",
+      "arcana": "Major",
+      "number": 13,
+      "keywords": {
+        "upright": ["结束", "转变", "重生", "必然"],
+        "reversed": ["抗拒改变", "停滞", "无法放手"]
+      }
+    },
+    {
+      "name": "Temperance",
+      "arcana": "Major",
+      "number": 14,
+      "keywords": {
+        "upright": ["平衡", "节制", "耐心", "调和"],
+        "reversed": ["失衡", "过度", "缺乏远见"]
+      }
+    },
+    {
+      "name": "The Devil",
+      "arcana": "Major",
+      "number": 15,
+      "keywords": {
+        "upright": ["束缚", "欲望", "物质主义", "诱惑"],
+        "reversed": ["解脱", "破除束缚", "觉醒"]
+      }
+    },
+    {
+      "name": "The Tower",
+      "arcana": "Major",
+      "number": 16,
+      "keywords": {
+        "upright": ["突变", "崩塌", "启示", "剧烈改变"],
+        "reversed": ["避免灾难", "恐惧改变", "延迟崩塌"]
+      }
+    },
+    {
+      "name": "The Star",
+      "arcana": "Major",
+      "number": 17,
+      "keywords": {
+        "upright": ["希望", "灵感", "宁静", "重生"],
+        "reversed": ["绝望", "失去信心", "断联"]
+      }
+    },
+    {
+      "name": "The Moon",
+      "arcana": "Major",
+      "number": 18,
+      "keywords": {
+        "upright": ["幻觉", "潜意识", "恐惧", "不确定性"],
+        "reversed": ["释放恐惧", "真相浮现", "克服焦虑"]
+      }
+    },
+    {
+      "name": "The Sun",
+      "arcana": "Major",
+      "number": 19,
+      "keywords": {
+        "upright": ["成功", "喜悦", "光明", "活力"],
+        "reversed": ["暂时的挫折", "过度乐观", "缺乏热情"]
+      }
+    },
+    {
+      "name": "Judgement",
+      "arcana": "Major",
+      "number": 20,
+      "keywords": {
+        "upright": ["觉醒", "重生", "召唤", "反思"],
+        "reversed": ["自我怀疑", "拒绝召唤", "逃避审判"]
+      }
+    },
+    {
+      "name": "The World",
+      "arcana": "Major",
+      "number": 21,
+      "keywords": {
+        "upright": ["完成", "成就", "圆满", "旅程终点"],
+        "reversed": ["未完成", "缺乏收尾", "延迟成功"]
+      }
+    }
+  ],
+  "minor_arcana": [
+    {
+      "name": "Ace of Wands",
+      "arcana": "Minor",
+      "suit": "Wands",
+      "number": 1,
+      "keywords": {
+        "upright": ["灵感", "新机会", "潜力", "激情"],
+        "reversed": ["延误", "缺乏方向", "错失机会"]
+      }
+    },
+    {
+      "name": "Two of Wands",
+      "arcana": "Minor",
+      "suit": "Wands",
+      "number": 2,
+      "keywords": {
+        "upright": ["计划", "决策", "进展", "远见"],
+        "reversed": ["恐惧改变", "糟糕计划", "缺乏远见"]
+      }
+    },
+    {
+      "name": "Three of Wands",
+      "arcana": "Minor",
+      "suit": "Wands",
+      "number": 3,
+      "keywords": {
+        "upright": ["扩展", "远见", "探索", "机会"],
+        "reversed": ["障碍", "延误", "缺乏远见"]
+      }
+    },
+    {
+      "name": "Four of Wands",
+      "arcana": "Minor",
+      "suit": "Wands",
+      "number": 4,
+      "keywords": {
+        "upright": ["庆祝", "和谐", "家", "社区"],
+        "reversed": ["不稳定", "缺乏支持", "过渡期"]
+      }
+    },
+    {
+      "name": "Five of Wands",
+      "arcana": "Minor",
+      "suit": "Wands",
+      "number": 5,
+      "keywords": {
+        "upright": ["竞争", "冲突", "张力", "挑战"],
+        "reversed": ["避免冲突", "紧张缓解", "内心挣扎"]
+      }
+    },
+    {
+      "name": "Six of Wands",
+      "arcana": "Minor",
+      "suit": "Wands",
+      "number": 6,
+      "keywords": {
+        "upright": ["胜利", "成功", "公众认可", "自信"],
+        "reversed": ["自我怀疑", "缺乏认可", "跌落"]
+      }
+    },
+    {
+      "name": "Seven of Wands",
+      "arcana": "Minor",
+      "suit": "Wands",
+      "number": 7,
+      "keywords": {
+        "upright": ["防御", "坚持", "挑战", "勇气"],
+        "reversed": ["放弃", "不堪重负", "屈服"]
+      }
+    },
+    {
+      "name": "Eight of Wands",
+      "arcana": "Minor",
+      "suit": "Wands",
+      "number": 8,
+      "keywords": {
+        "upright": ["快速行动", "运动", "急速变化", "航空"],
+        "reversed": ["延误", "等待", "内部阻碍"]
+      }
+    },
+    {
+      "name": "Nine of Wands",
+      "arcana": "Minor",
+      "suit": "Wands",
+      "number": 9,
+      "keywords": {
+        "upright": ["坚持", "韧性", "最后考验", "警惕"],
+        "reversed": ["精疲力竭", "放弃", "偏执"]
+      }
+    },
+    {
+      "name": "Ten of Wands",
+      "arcana": "Minor",
+      "suit": "Wands",
+      "number": 10,
+      "keywords": {
+        "upright": ["负担", "责任", "艰难", "压力"],
+        "reversed": ["释放负担", "委托", "崩溃"]
+      }
+    },
+    {
+      "name": "Page of Wands",
+      "arcana": "Minor",
+      "suit": "Wands",
+      "number": 11,
+      "keywords": {
+        "upright": ["探索", "热情", "发现", "自由"],
+        "reversed": ["缺乏方向", "冲动", "拖延"]
+      }
+    },
+    {
+      "name": "Knight of Wands",
+      "arcana": "Minor",
+      "suit": "Wands",
+      "number": 12,
+      "keywords": {
+        "upright": ["行动", "冒险", "冲动", "激情"],
+        "reversed": ["鲁莽", "延误", "挫折"]
+      }
+    },
+    {
+      "name": "Queen of Wands",
+      "arcana": "Minor",
+      "suit": "Wands",
+      "number": 13,
+      "keywords": {
+        "upright": ["自信", "独立", "社交", "决心"],
+        "reversed": ["傲慢", "嫉妒", "自私"]
+      }
+    },
+    {
+      "name": "King of Wands",
+      "arcana": "Minor",
+      "suit": "Wands",
+      "number": 14,
+      "keywords": {
+        "upright": ["领导力", "远见", "企业家", "荣誉"],
+        "reversed": ["冲动", "傲慢", "期望过高"]
+      }
+    },
+    {
+      "name": "Ace of Cups",
+      "arcana": "Minor",
+      "suit": "Cups",
+      "number": 1,
+      "keywords": {
+        "upright": ["新关系", "同情", "创造力", "直觉"],
+        "reversed": ["情感压抑", "缺乏创造力", "空虚"]
+      }
+    },
+    {
+      "name": "Two of Cups",
+      "arcana": "Minor",
+      "suit": "Cups",
+      "number": 2,
+      "keywords": {
+        "upright": ["伙伴关系", "联合", "连接", "吸引"],
+        "reversed": ["失衡", "分离", "紧张"]
+      }
+    },
+    {
+      "name": "Three of Cups",
+      "arcana": "Minor",
+      "suit": "Cups",
+      "number": 3,
+      "keywords": {
+        "upright": ["庆祝", "友谊", "社区", "社交"],
+        "reversed": ["孤立", "流言蜚语", "过度放纵"]
+      }
+    },
+    {
+      "name": "Four of Cups",
+      "arcana": "Minor",
+      "suit": "Cups",
+      "number": 4,
+      "keywords": {
+        "upright": ["冥想", "沉思", "冷漠", "厌倦"],
+        "reversed": ["觉醒", "新机会", "重新投入"]
+      }
+    },
+    {
+      "name": "Five of Cups",
+      "arcana": "Minor",
+      "suit": "Cups",
+      "number": 5,
+      "keywords": {
+        "upright": ["悲伤", "失落", "遗憾", "悲痛"],
+        "reversed": ["接受", "向前看", "原谅"]
+      }
+    },
+    {
+      "name": "Six of Cups",
+      "arcana": "Minor",
+      "suit": "Cups",
+      "number": 6,
+      "keywords": {
+        "upright": ["怀旧", "童年", "纯真", "重逢"],
+        "reversed": ["活在过去", "不成熟", "脱离现实"]
+      }
+    },
+    {
+      "name": "Seven of Cups",
+      "arcana": "Minor",
+      "suit": "Cups",
+      "number": 7,
+      "keywords": {
+        "upright": ["幻想", "选择", "愿望思维", "想象"],
+        "reversed": ["明确选择", "现实", "清醒"]
+      }
+    },
+    {
+      "name": "Eight of Cups",
+      "arcana": "Minor",
+      "suit": "Cups",
+      "number": 8,
+      "keywords": {
+        "upright": ["离开", "抛弃", "失望", "撤退"],
+        "reversed": ["恐惧改变", "留下", "逃避"]
+      }
+    },
+    {
+      "name": "Nine of Cups",
+      "arcana": "Minor",
+      "suit": "Cups",
+      "number": 9,
+      "keywords": {
+        "upright": ["满足", "情感满足", "实现愿望", "快乐"],
+        "reversed": ["不满足", "贪婪", "物质主义"]
+      }
+    },
+    {
+      "name": "Ten of Cups",
+      "arcana": "Minor",
+      "suit": "Cups",
+      "number": 10,
+      "keywords": {
+        "upright": ["和谐", "婚姻", "幸福", "对齐"],
+        "reversed": ["破裂", "不和谐", "家庭冲突"]
+      }
+    },
+    {
+      "name": "Page of Cups",
+      "arcana": "Minor",
+      "suit": "Cups",
+      "number": 11,
+      "keywords": {
+        "upright": ["创意机会", "直觉消息", "好奇", "可能"],
+        "reversed": ["创造力受阻", "情绪化", "不成熟"]
+      }
+    },
+    {
+      "name": "Knight of Cups",
+      "arcana": "Minor",
+      "suit": "Cups",
+      "number": 12,
+      "keywords": {
+        "upright": ["浪漫", "魅力", "想象力", "美丽"],
+        "reversed": ["不切实际", "嫉妒", "喜怒无常"]
+      }
+    },
+    {
+      "name": "Queen of Cups",
+      "arcana": "Minor",
+      "suit": "Cups",
+      "number": 13,
+      "keywords": {
+        "upright": ["同情", "关心", "情感安全", "顾问"],
+        "reversed": ["依赖", "不安全感", "缺乏边界"]
+      }
+    },
+    {
+      "name": "King of Cups",
+      "arcana": "Minor",
+      "suit": "Cups",
+      "number": 14,
+      "keywords": {
+        "upright": ["情感平衡", "慷慨", "外交", "平静"],
+        "reversed": ["情绪操控", "冷漠", "压抑"]
+      }
+    },
+    {
+      "name": "Ace of Swords",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "number": 1,
+      "keywords": {
+        "upright": ["突破", "清晰", "新想法", "真相"],
+        "reversed": ["混乱", "缺乏清晰", "残酷真相"]
+      }
+    },
+    {
+      "name": "Two of Swords",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "number": 2,
+      "keywords": {
+        "upright": ["艰难选择", "僵局", "否认", "避免"],
+        "reversed": ["信息过载", "混乱", "释放"]
+      }
+    },
+    {
+      "name": "Three of Swords",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "number": 3,
+      "keywords": {
+        "upright": ["心碎", "悲伤", "痛苦", "悲伤"],
+        "reversed": ["恢复", "原谅", "继续前进"]
+      }
+    },
+    {
+      "name": "Four of Swords",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "number": 4,
+      "keywords": {
+        "upright": ["休息", "恢复", "沉思", "宁静"],
+        "reversed": ["疲惫", "倦怠", "缺乏进展"]
+      }
+    },
+    {
+      "name": "Five of Swords",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "number": 5,
+      "keywords": {
+        "upright": ["冲突", "紧张", " defeat", "双赢"],
+        "reversed": ["和解", "前进", "原谅"]
+      }
+    },
+    {
+      "name": "Six of Swords",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "number": 6,
+      "keywords": {
+        "upright": ["过渡", "离开", "前进", "释放"],
+        "reversed": ["抵抗过渡", "未完成的旅程", "被困"]
+      }
+    },
+    {
+      "name": "Seven of Swords",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "number": 7,
+      "keywords": {
+        "upright": ["欺骗", "策略", "偷偷摸摸", "背叛"],
+        "reversed": ["忏悔", "觉醒", "良心"]
+      }
+    },
+    {
+      "name": "Eight of Swords",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "number": 8,
+      "keywords": {
+        "upright": ["困局", "自我设限", "受害者心态", "无力感"],
+        "reversed": ["自我解放", "新视角", "自由"]
+      }
+    },
+    {
+      "name": "Nine of Swords",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "number": 9,
+      "keywords": {
+        "upright": ["焦虑", "恐惧", "噩梦", "担忧"],
+        "reversed": ["希望", "释放恐惧", "寻求帮助"]
+      }
+    },
+    {
+      "name": "Ten of Swords",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "number": 10,
+      "keywords": {
+        "upright": ["痛苦结束", "背叛", "崩溃", "不可避免的结局"],
+        "reversed": ["恢复", "重生", "触底反弹"]
+      }
+    },
+    {
+      "name": "Page of Swords",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "number": 11,
+      "keywords": {
+        "upright": ["好奇", "思维敏捷", "新想法", "热情"],
+        "reversed": ["八卦", "欺骗", "缺乏计划"]
+      }
+    },
+    {
+      "name": "Knight of Swords",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "number": 12,
+      "keywords": {
+        "upright": ["雄心", "行动导向", "快速思维", "直接"],
+        "reversed": ["鲁莽", "残忍", "缺乏方向"]
+      }
+    },
+    {
+      "name": "Queen of Swords",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "number": 13,
+      "keywords": {
+        "upright": ["独立", "清晰思维", "直接沟通", "公正"],
+        "reversed": ["冷酷", "批判性", "偏见"]
+      }
+    },
+    {
+      "name": "King of Swords",
+      "arcana": "Minor",
+      "suit": "Swords",
+      "number": 14,
+      "keywords": {
+        "upright": ["智慧", "权威", "真相", "高标准"],
+        "reversed": ["操控", "残忍", "滥用权力"]
+      }
+    },
+    {
+      "name": "Ace of Pentacles",
+      "arcana": "Minor",
+      "suit": "Pentacles",
+      "number": 1,
+      "keywords": {
+        "upright": ["新财务机会", "繁荣", "丰盛", "安全"],
+        "reversed": ["错失机会", "缺乏规划", "财务损失"]
+      }
+    },
+    {
+      "name": "Two of Pentacles",
+      "arcana": "Minor",
+      "suit": "Pentacles",
+      "number": 2,
+      "keywords": {
+        "upright": ["平衡", "适应", "时间管理", "优先级"],
+        "reversed": ["失衡", "混乱", "不堪重负"]
+      }
+    },
+    {
+      "name": "Three of Pentacles",
+      "arcana": "Minor",
+      "suit": "Pentacles",
+      "number": 3,
+      "keywords": {
+        "upright": ["团队合作", "协作", "学习", "实施"],
+        "reversed": ["缺乏团队精神", "单打独斗", "不协调"]
+      }
+    },
+    {
+      "name": "Four of Pentacles",
+      "arcana": "Minor",
+      "suit": "Pentacles",
+      "number": 4,
+      "keywords": {
+        "upright": ["安全", "保守", "储蓄", "控制"],
+        "reversed": ["贪婪", "物质主义", "财务不安全"]
+      }
+    },
+    {
+      "name": "Five of Pentacles",
+      "arcana": "Minor",
+      "suit": "Pentacles",
+      "number": 5,
+      "keywords": {
+        "upright": ["贫穷", "孤立", "担忧", "不安全感"],
+        "reversed": ["恢复", "慈善", "精神富足"]
+      }
+    },
+    {
+      "name": "Six of Pentacles",
+      "arcana": "Minor",
+      "suit": "Pentacles",
+      "number": 6,
+      "keywords": {
+        "upright": ["慷慨", "慈善", "分享财富", "繁荣"],
+        "reversed": ["债务", "自私", "单向给予"]
+      }
+    },
+    {
+      "name": "Seven of Pentacles",
+      "arcana": "Minor",
+      "suit": "Pentacles",
+      "number": 7,
+      "keywords": {
+        "upright": ["长期愿景", "坚持", "投资", "奖励"],
+        "reversed": ["缺乏长期愿景", "有限成功", "不耐烦"]
+      }
+    },
+    {
+      "name": "Eight of Pentacles",
+      "arcana": "Minor",
+      "suit": "Pentacles",
+      "number": 8,
+      "keywords": {
+        "upright": ["学徒", "勤奋", "努力工作", "细节"],
+        "reversed": ["缺乏专注", "完美主义", "平庸"]
+      }
+    },
+    {
+      "name": "Nine of Pentacles",
+      "arcana": "Minor",
+      "suit": "Pentacles",
+      "number": 9,
+      "keywords": {
+        "upright": ["奢侈", "自给自足", "财务独立", "成就"],
+        "reversed": ["过度消费", "财务损失", "缺乏独立"]
+      }
+    },
+    {
+      "name": "Ten of Pentacles",
+      "arcana": "Minor",
+      "suit": "Pentacles",
+      "number": 10,
+      "keywords": {
+        "upright": ["遗产", "家庭", "财富", "传统"],
+        "reversed": ["家庭冲突", "财务失败", "孤独"]
+      }
+    },
+    {
+      "name": "Page of Pentacles",
+      "arcana": "Minor",
+      "suit": "Pentacles",
+      "number": 11,
+      "keywords": {
+        "upright": ["野心", "勤奋", "新机会", "生产力"],
+        "reversed": ["缺乏进展", "拖延", "缺乏专注"]
+      }
+    },
+    {
+      "name": "Knight of Pentacles",
+      "arcana": "Minor",
+      "suit": "Pentacles",
+      "number": 12,
+      "keywords": {
+        "upright": ["效率", "常规", "保守", "方法"],
+        "reversed": ["自满", "无聊", "懒惰"]
+      }
+    },
+    {
+      "name": "Queen of Pentacles",
+      "arcana": "Minor",
+      "suit": "Pentacles",
+      "number": 13,
+      "keywords": {
+        "upright": ["实用", "舒适", "财务安全", "滋养"],
+        "reversed": ["财务独立", "工作与家庭失衡", "自私"]
+      }
+    },
+    {
+      "name": "King of Pentacles",
+      "arcana": "Minor",
+      "suit": "Pentacles",
+      "number": 14,
+      "keywords": {
+        "upright": ["财富", "商业", "领导力", "安全"],
+        "reversed": ["财务损失", "固执", "物质主义"]
+      }
+    }
+  ]
+}
